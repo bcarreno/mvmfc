@@ -64,7 +64,5 @@ share_hackernews: false
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    pretty
-gems: [jekyll-paginate]
-paginate:     99
 sass:
   compressed: true
