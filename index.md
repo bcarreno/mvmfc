@@ -42,9 +42,6 @@ layout: page
 ![](/assets/sm_mvmfc_website-244.JPG)
 ![](/assets/sm_mvmfc_website-248.JPG)
 ![](/assets/sm_mvmfc_website-070.JPG)
-![](/assets/sm_airplanes-077.JPG)
-![](/assets/sm_airplanes-065.JPG)
-![](/assets/sm_airplanes-009.jpg)
 
 ![Carrenos showing off their Sky Bunnies at the Second International Sky Bunny Postal Contest/](/assets/bunny_showing_off.jpg)
 
@@ -69,3 +66,9 @@ But moving the wing and working on the balance was the factor that had the highe
 I flew Sunday the 6th as early as I could and my best time was 97 seconds, which is what I posted. My kids were not in the mood to go early and decided to wait, which was not a good idea because the wind picked up and there was not another chance to fly after that.
 
 We live on an island, not many people fly models here, and if we want to participate in an event it is always a long drive. This contest was a good motivation to hone our skills, it was also a great way to have fun with my kids.
+
+## We also fly outdoors in the summer
+
+![](/assets/sm_airplanes-077.JPG)
+![](/assets/sm_airplanes-009.jpg)
+![](/assets/sm_airplanes-065.JPG)
