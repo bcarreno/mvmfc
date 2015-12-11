@@ -1,6 +1,7 @@
 ## mvmfc
 
 Martha's Vineyard Model Flying Club Website
+http://mvmfc.com
 
 ## Installation
 
