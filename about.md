@@ -15,8 +15,8 @@ A primary goal for our club is getting young people on the Island involved
 with building and flying model aircraft. To that end, we have for several years been
 able to have our young members fly and receive instruction in the high school gym
 Saturday mornings during the fall and winter.
-*IMPORTANT NOTICE: our permission to use the high school gym has been revoked, we are
-currently trying to regain access, any updates will be posted on this website*
+*IMPORTANT NOTICE: we are in conversations with HS officials to get access
+to the gym this winter, any updates will be posted on this website*
 
 We have also developed an outdoor
 flying field with both grass and artificial turf for student instruction, as well as
