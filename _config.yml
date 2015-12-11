@@ -13,7 +13,6 @@ exclude: [extras]
 ###########################################################
 
 # Google services
-google_analytics:
 google_verification:
 
 # Optional features
