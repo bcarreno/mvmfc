@@ -25,9 +25,7 @@ with building and flying model aircraft.
 ![](/assets/sm_airplanes-010.JPG)
 ![](/assets/sm_mvmfc_website-022.JPG)
 
-Since 2007 we have been flying in the high school gym Saturday mornings during the fall and winter
-*IMPORTANT NOTICE: we are in conversations with HS officials to get access
-to the gym this winter, any updates will be posted on this website*
+Since 2007 we have been flying in the high school gym Saturday mornings during the fall and winter.
 
 ![](/assets/sm_mvmfc_website-246.JPG)
 ![](/assets/sm_airplanes-098.jpg)
