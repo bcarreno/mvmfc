@@ -23,5 +23,5 @@ general flying, whenever the weather permits.
 In 2012 the MVMFC initiated a model aviation build/fly program at the
 Edgartown School, one day a week for four weeks in the fall.
 
-![](/assets/sm_mvmfc_website-254.JPG)
-![](/assets/sm_mvmfc_website-041.jpg)
+![](/assets/sm_mvmfc_1280x960-6b.jpg)
+![](/assets/sm_mvmfc_1280x960-4b.jpg)
