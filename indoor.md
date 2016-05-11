@@ -1,21 +1,22 @@
 ---
 layout: page
+title: Indoor Flying
 permalink: /indoor_flying/
 ---
 
-## What
+### What
 
 Indoors we fly free flight and small radio control models: airplanes, helicopters and multirotors (drones)
 
-## When
+### When
 
 Every Saturday from 8:00 AM to 10:00 AM from October to May of 2016
 
-## Where
+### Where
 
 Gymnasium at the Martha's Vineyard Regional High School
 
-## Who
+### Who
 
 There are a dozen young members and a dozen adults in our club.
 
@@ -23,7 +24,7 @@ Guests are always welcome! Interested in R/C flying? no problem, we have easy-to
 
 Membership is free if you are under 19 and want to join our club
 
-## The Rules
+### The Rules
 
 Everybody must wear non-marking sole shoes and wipe them at the door.
 

@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Outdoor Flying
 permalink: /outdoor_flying/
 ---
 
