@@ -12,7 +12,7 @@ Indoors we fly free flight and small radio control models: airplanes, helicopter
 
 Every Saturday from 8:00 AM to 10:00 AM from October to June.
 
-The last indoor session for the winter season of 2016 is June 4.
+The first indoor session for this season is October 15, 2016.
 
 ### Where
 
