@@ -10,9 +10,11 @@ Indoors we fly free flight and small radio control models: airplanes, helicopter
 
 ### When
 
-Every Saturday from 8:00 AM to 10:00 AM from October to June.
+Every Saturday from 9:00 AM to 10:00 AM from October to June.
 
 The first indoor session for this season is October 15, 2016.
+
+<iframe src="https://calendar.google.com/calendar/embed?src=q3rfd3p060glvckfjg65isgoig%40group.calendar.google.com&ctz=America/New_York" style="border: 0" frameborder="0" scrolling="no" style="height:480px; width:100%;margin-bottom: 30px;"></iframe>
 
 ### Where
 

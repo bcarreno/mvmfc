@@ -6,9 +6,7 @@ permalink: /outdoor_flying/
 
 During the summer season we fly outdoors every Saturday from 9:00 to 11:00 AM. We also fly on Thursdays from 4:00 to 6:00 PM.
 
-Because our field is next to the [Sharks Tank](http://www.mvsharks.com), it is strictly forbidden to fly after 12:00 the day the MV sharks are playing. The calendar below shows their game schedule.
-
-<iframe src="https://calendar.google.com/calendar/embed?src=q3rfd3p060glvckfjg65isgoig%40group.calendar.google.com&ctz=America/New_York" style="border: 0" frameborder="0" scrolling="no" style="height:480px; width:100%;margin-bottom: 30px;"></iframe>
+Because our field is next to the [Sharks Tank](http://www.mvsharks.com), it is strictly forbidden to fly after 12:00 the days the MV sharks are playing.
 
 Our outdoor flying field is located in the Manuel F. Correllus State Forest, close to the Martha's Vineyard Regional High School. Coming from Edgartown Road, immediately after the Sharks Tank on the left.
 
