@@ -72,15 +72,7 @@ general flying, whenever the weather permits.
 ![](/assets/sm_miss2.jpg)
 ![](/assets/sm_airplanes-065.JPG)
 
-![](/assets/sm_joe2.jpg)
 ![](/assets/sm_airplanes-077.JPG)
-
 ![](/assets/sm_neat_fair.jpg)
-![](/assets/sm_joe1.jpg)
 
 ![](/assets/sm_airplanes-009.jpg)
-![](/assets/sm_floats.jpg)
-
-![](/assets/sm_workshop.jpg)
-
-
